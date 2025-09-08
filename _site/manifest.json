@@ -1,0 +1,9 @@
+{
+  "lang": "en-GB",
+  "name": "Chair for Information Security | Ruhr University Bochum, Germany",
+  "short_name": "ChairforInformationSecurity|RuhrUniversityBochum,Germany",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
